@@ -1,0 +1,6 @@
+/**
+ * @file config
+ */
+
+module.exports = {
+};

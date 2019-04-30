@@ -1,0 +1,24 @@
+.draft-extend-editor {
+  padding: 4px;
+}
+
+.DraftEditor-root {
+  padding-bottom: 1rem;
+}
+
+.draft-extend-controls {
+  padding: 0;
+  margin: 0;
+}
+
+.draft-extend-controls > * {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+  margin-right: 4px;
+}
+
+.draft-extend-controls > *:last-child {
+  display: inline-block;
+  margin-right: 0;
+}
